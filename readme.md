@@ -1,5 +1,7 @@
 # Lista Zakupów
+Projekt grupowy, program umożliwia tworzenie list zakupów oraz ich szablonów.
 <ol>
+
   <li>
     Uruchamianie
     <p>
